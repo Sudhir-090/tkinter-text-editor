@@ -1,0 +1,2 @@
+it is simple text editor 
+if you are running this with any program remember to install tkinter 
